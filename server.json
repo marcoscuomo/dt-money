@@ -6,7 +6,7 @@
       "type": "income",
       "category": "venda",
       "price": 14000,
-      "createdAt": "2023-05-18T00:21:40.879Z" 
+      "createdAt": "2023-05-18T00:21:40.879Z"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "type": "outcome",
       "category": "saúde",
       "price": 1200,
-      "createdAt": "2023-05-18T00:21:40.879Z" 
+      "createdAt": "2023-05-18T00:21:40.879Z"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "type": "outcome",
       "category": "Básicas",
       "price": 248,
-      "createdAt": "2023-05-18T00:21:40.879Z" 
+      "createdAt": "2023-05-18T00:21:40.879Z"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "type": "outcome",
       "category": "Básicas",
       "price": 172,
-      "createdAt": "2023-05-18T00:21:40.879Z" 
+      "createdAt": "2023-05-18T00:21:40.879Z"
     },
     {
       "id": 5,
@@ -38,7 +38,23 @@
       "type": "income",
       "category": "Beneficio",
       "price": 780,
-      "createdAt": "2023-05-18T00:21:40.879Z" 
+      "createdAt": "2023-05-18T00:21:40.879Z"
+    },
+    {
+      "description": "App",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-05-18T14:25:59.674Z",
+      "id": 6
+    },
+    {
+      "description": "Pastel",
+      "price": 20,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-18T15:05:15.021Z",
+      "id": 7
     }
   ]
 }
