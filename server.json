@@ -15,6 +15,30 @@
       "category": "saúde",
       "price": 1200,
       "createdAt": "2023-05-18T00:21:40.879Z" 
+    },
+    {
+      "id": 3,
+      "description": "Luz",
+      "type": "outcome",
+      "category": "Básicas",
+      "price": 248,
+      "createdAt": "2023-05-18T00:21:40.879Z" 
+    },
+    {
+      "id": 4,
+      "description": "Água",
+      "type": "outcome",
+      "category": "Básicas",
+      "price": 172,
+      "createdAt": "2023-05-18T00:21:40.879Z" 
+    },
+    {
+      "id": 5,
+      "description": "Vale Refeição",
+      "type": "income",
+      "category": "Beneficio",
+      "price": 780,
+      "createdAt": "2023-05-18T00:21:40.879Z" 
     }
   ]
 }
